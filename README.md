@@ -6,9 +6,9 @@ Easy, robust and powerful plotting library for javascript.
 Downloads
 ---------
 
-* polychart.js [https://github.com/Polychart/polychart.js/blob/master/polychart.js](https://github.com/Polychart/polychart.js/blob/master/polychart.js)
-* polychart.min.js (minified) [https://github.com/Polychart/polychart.js/blob/master/polychart.min.js](https://github.com/Polychart/polychart.js/blob/master/polychart.min.js)
-* polychart.standalone.js (minified & all the dependencies) [https://github.com/Polychart/polychart.js/blob/master/polychart.standalone.js](https://github.com/Polychart/polychart.js/blob/master/polychart.standalone.js)
+* polychart.js [https://raw.github.com/Polychart/polychart.js/master/polychart.js](https://raw.github.com/Polychart/polychart.js/master/polychart.js)
+* polychart.min.js (minified) [https://raw.github.com/Polychart/polychart.js/master/polychart.min.js](https://raw.github.com/Polychart/polychart.js/master/polychart.min.js)
+* polychart.standalone.js (minified & all the dependencies) [https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.js](https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.js)
 
 
 Examples & Tutorials
@@ -21,6 +21,10 @@ Dependencies
 
 * [underscore.js](http://documentcloud.github.com/underscore/)
 * [d3.js](http://mbostock.github.com/d3)
+
+License
+-------
+GPLv3
 
 Authors
 -------
