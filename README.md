@@ -24,7 +24,9 @@ Dependencies
 
 License
 -------
-GPLv3
+
+* GPLv3
+* Contact jee@polychart.com for other licensing inquiries.
 
 Authors
 -------
