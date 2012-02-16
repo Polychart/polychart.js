@@ -2,7 +2,7 @@
 GNU GENERAL PUBLIC LICENSE
    Version 3, 29 June 2007
  */
-var gg = function() {
+var gg = (function() {
   var gg = gg || {};
   var u = u || {};
   var console = console || {"log":function() {
@@ -3013,5 +3013,5 @@ var gg = function() {
   };
   packageFunction(gg, gg);
   return gg
-}();
+}());
 
