@@ -8,7 +8,7 @@ Downloads
 
 * polychart.js [https://raw.github.com/Polychart/polychart.js/master/polychart.js](https://raw.github.com/Polychart/polychart.js/master/polychart.js)
 * polychart.min.js (minified) [https://raw.github.com/Polychart/polychart.js/master/polychart.min.js](https://raw.github.com/Polychart/polychart.js/master/polychart.min.js)
-* polychart.standalone.min.js (minified & all the dependencies) [https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.js](https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.min.js)
+* polychart.standalone.min.js (minified & all the dependencies) [https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.min.js](https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.min.js)
 
 
 Examples & Tutorials
