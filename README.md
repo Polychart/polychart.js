@@ -8,7 +8,7 @@ Downloads
 
 * polychart.js [https://raw.github.com/Polychart/polychart.js/master/polychart.js](https://raw.github.com/Polychart/polychart.js/master/polychart.js)
 * polychart.min.js (minified) [https://raw.github.com/Polychart/polychart.js/master/polychart.min.js](https://raw.github.com/Polychart/polychart.js/master/polychart.min.js)
-* polychart.standalone.min.js (minified & all the dependencies) [https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.js](https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.js)
+* polychart.standalone.min.js (minified & all the dependencies) [https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.js](https://raw.github.com/Polychart/polychart.js/master/polychart.standalone.min.js)
 
 
 Examples & Tutorials
@@ -25,8 +25,7 @@ Dependencies
 License
 -------
 
-* Licnesed under Creative Commons 3.0 Attribution & Non-commercial
-* [http://creativecommons.org/licenses/by-nc/3.0/](http://creativecommons.org/licenses/by-nc/3.0/)
+* Licnesed under Creative Commons 3.0 Attribution & Non-commercial ([Link](http://creativecommons.org/licenses/by-nc/3.0/))
 * Contact jee@polychart.com for licensing inquiries & commercial usage.
 
 Authors
