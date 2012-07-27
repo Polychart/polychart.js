@@ -1,7 +1,14 @@
-/** Generated on 2012-07-27T14:51:34.843613 */
+/** Generated on 2012-07-27T15:02:07.652545 */
 ;/**
- * Date ; 1/12/2012
- * Copyright 2012 Beta Cubed. All rights reserved.
+ * @license Copyright 2012 Beta Cubed. All rights reserved.
+ * Polychart.js charting library. 
+ * This library uses the following projects.
+ *
+ * JSON2.js
+ * d3.js
+ * underscore.js
+ * underscore.string.js
+ * raphael.js
  */
 var gg = (function(){
 ;/*
