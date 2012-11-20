@@ -1,7 +1,8 @@
 Polychart.js
 ============
 
-Easy, robust and powerful plotting library for javascript.
+Polychart.js is an easy to use yet powerful JavaScript graphing library.
+See [polychartjs.com](http://polychartjs.com) for more details.
 
 Downloads
 ---------
@@ -19,6 +20,7 @@ Dependencies
 ------------
 
 * [underscore.js](http://documentcloud.github.com/underscore/)
+* [raphael.js](http://raphaeljs.com/)
 * [d3.js](http://mbostock.github.com/d3)
 
 License
