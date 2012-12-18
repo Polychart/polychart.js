@@ -9,7 +9,8 @@ Downloads
 
 * polychart.js [https://raw.github.com/Polychart/polychart.js/master/polychart.js](https://raw.github.com/Polychart/polychart.js/master/polychart.js)
 * polychart.min.js (minified) [https://raw.github.com/Polychart/polychart.js/master/polychart.min.js](https://raw.github.com/Polychart/polychart.js/master/polychart.min.js)
-
+* build/polychart.js does not contain the dependencies (you must import them yourself)
+* build/polychart.min.js does not contain the dependencies (you must import them yourself)
 
 Examples & Tutorials
 --------------------
@@ -19,6 +20,8 @@ Refer to [polychart.com](http://polychart.com).
 Dependencies
 ------------
 
+Dependencies are included in the polychart.js and polychart.min.js files in the main respository. They are also
+included in the dependencies/ folder
 * [underscore.js](http://documentcloud.github.com/underscore/)
 * [raphael.js](http://raphaeljs.com/)
 * [d3.js](http://mbostock.github.com/d3)
