@@ -7,8 +7,8 @@ See [polychartjs.com](http://polychartjs.com) for more details.
 Downloads
 ---------
 
-* polychart.js [https://raw.github.com/Polychart/polychart.js/master/polychart.js](https://raw.github.com/Polychart/polychart.js/master/polychart.js)
-* polychart.min.js (minified) [https://raw.github.com/Polychart/polychart.js/master/polychart.min.js](https://raw.github.com/Polychart/polychart.js/master/polychart.min.js)
+* polychart.js [https://raw.github.com/Polychart/polychart.js/master/polychart.latest.js](https://raw.github.com/Polychart/polychart.js/master/polychart.latest.js)
+* polychart.min.js (minified) [https://raw.github.com/Polychart/polychart.js/master/polychart.latest.min.js](https://raw.github.com/Polychart/polychart.js/master/polychart.latest.min.js)
 * build/polychart.js does not contain the dependencies (you must import them yourself)
 * build/polychart.min.js does not contain the dependencies (you must import them yourself)
 
