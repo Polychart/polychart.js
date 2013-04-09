@@ -1,7 +1,11 @@
 Polychart.js
 ============
 
-Polychart.js is an easy to use yet powerful JavaScript graphing library.
+*DEPRECATED* Please see version 2 of Polychart.js at git@github.com:Polychart/polychart.js.git
+
+It is a complete rewrite of Polychart.js that allows for more flexible charting and creation of
+interactive charts.
+
 See [polychartjs.com](http://polychartjs.com) for more details.
 
 Downloads
