@@ -33,8 +33,7 @@ included in the dependencies/ folder
 License
 -------
 
-* Licnesed under Creative Commons 3.0 Attribution & Non-commercial ([Link](http://creativecommons.org/licenses/by-nc/3.0/))
-* Contact lisa@polychart.com for licensing inquiries & commercial usage.
+MIT
 
 Authors
 -------
